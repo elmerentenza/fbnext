@@ -1,0 +1,16 @@
+npm install --save @emotion/styled
+npm install @emotion/babel-preset-css-prop
+npm install --save-dev @babel/core
+npm install --save-dev @emotion/babel-plugin
+npm install @emotion/react
+npm install @emotion/core (esta es innecesaria... está incluida en @emotion/react)
+
+npm i firebase
+npm i firebase-admin
+npm i react-firebase-file-uploader
+npm i date-fns
+
+
+sweetalert2
+animate
+
